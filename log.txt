@@ -1,0 +1,257 @@
+C:\Program Files\nodejs\node.exe C:\Users\TEDDY\Documents\GitHub\liri-node-app\liri.js movie-this AliensError: Invalid API key!
+C:\Program Files\nodejs\node.exe C:\Users\TEDDY\Documents\GitHub\liri-node-app\liri.js movie-this AliensTitle: Aliens
+Year: 1986
+Ratings:
+8.4/10
+99%
+Country: USA
+Language: English
+Plot: Ellen Ripley is rescued by a deep salvage team after being in hypersleep for 57 years. The moon that the Nostromo visited has been colonized, but contact is lost. This time, colonial marines have impressive firepower, but will that be enough?
+Actors: Sigourney Weaver, Carrie Henn, Michael Biehn, Paul Reiser
+C:\Program Files\nodejs\node.exe C:\Users\TEDDY\Documents\GitHub\liri-node-app\liri.js do-what-it-saysArtist(s): Backstreet Boys
+Song name: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=2b932471785d4c99bbca935dfacfb031
+Album: The Hits--Chapter One
+C:\Program Files\nodejs\node.exe C:\Users\TEDDY\Documents\GitHub\liri-node-app\liri.js spotify-this-song Man with the machine gunArtist(s): Nobuo Uematsu
+Song name: The Man with the Machine Gun (Final Fantasy VIII)
+Preview: https://p.scdn.co/mp3-preview/c3abb04f60c051e80a614fd0851bd1f92b076d3f?cid=2b932471785d4c99bbca935dfacfb031
+Album: Distant Worlds II: More Music from Final Fantasy
+C:\Program Files\nodejs\node.exe C:\Users\TEDDY\Documents\GitHub\liri-node-app\liri.js concert-this Metallica----------------------------------------------
+Venue: Estadio do Restelo
+Location: Lisbon, 
+Date: 05/01/2019
+----------------------------------------------
+Venue: Valdebebas - IFEMA
+Location: Madrid, 
+Date: 05/03/2019
+----------------------------------------------
+Venue: Estadi Olímpic Lluís Companys
+Location: Barcelona, 
+Date: 05/05/2019
+----------------------------------------------
+Venue: Ippodromo Snai - San Siro
+Location: Milan, 
+Date: 05/08/2019
+----------------------------------------------
+Venue: Stadion Letzigrund
+Location: Zürich, 
+Date: 05/10/2019
+----------------------------------------------
+Venue: Stade de France
+Location: Paris, 
+Date: 05/12/2019
+----------------------------------------------
+Venue: SLANE CASTLE
+Location: Co. Meath, 
+Date: 06/08/2019
+----------------------------------------------
+Venue: Johan Cruijff ArenA
+Location: Amsterdam, 
+Date: 06/11/2019
+----------------------------------------------
+Venue: RheinEnergieSTADION
+Location: Köln, 
+Date: 06/13/2019
+----------------------------------------------
+Venue: King Baudouin Stadium
+Location: Bruxelles, 
+Date: 06/16/2019
+----------------------------------------------
+Venue: Etihad Stadium
+Location: Manchester, 
+Date: 06/18/2019
+----------------------------------------------
+Venue: Twickenham Stadium
+Location: London, 
+Date: 06/20/2019
+----------------------------------------------
+Venue: Olympiastadion
+Location: Berlin, 
+Date: 07/06/2019
+----------------------------------------------
+Venue: Ullevi Restaurant & Conference
+Location: Göteborg, 
+Date: 07/09/2019
+----------------------------------------------
+Venue: Telia Parken
+Location: Copenhagen, 
+Date: 07/11/2019
+----------------------------------------------
+Venue: Granasen Arena
+Location: Trondheim, 
+Date: 07/13/2019
+----------------------------------------------
+Venue: KANTOLAN TAPAHTUMAPUISTO
+Location: Hameenlinna, 
+Date: 07/16/2019
+----------------------------------------------
+Venue: Raadi lennuväli
+Location: Tartu, 
+Date: 07/18/2019
+----------------------------------------------
+Venue: The Luzhniki Stadium
+Location: Moscow, 
+Date: 07/21/2019
+----------------------------------------------
+Venue: NATIONAL ARENA
+Location: Bucuresti, 
+Date: 08/14/2019
+----------------------------------------------
+Venue: Ernst-Happel-Stadion
+Location: Wien, 
+Date: 08/16/2019
+----------------------------------------------
+Venue: Letiště Praha Letňany
+Location: Praha, 
+Date: 08/18/2019
+----------------------------------------------
+Venue: PGE Narodowy
+Location: Warsaw, 
+Date: 08/21/2019
+----------------------------------------------
+Venue: Olympiastadion
+Location: Munchen, 
+Date: 08/23/2019
+----------------------------------------------
+Venue: Maimarkt Gelände
+Location: Mannheim, 
+Date: 08/25/2019
+----------------------------------------------
+Venue: Chase Center
+Location: San Francisco, CA
+Date: 09/06/2019
+----------------------------------------------
+Venue: Marvel Stadium
+Location: Docklands, 
+Date: 10/22/2019
+----------------------------------------------
+Venue: Adelaide Oval
+Location: North Adelaide, 
+Date: 10/20/2019
+----------------------------------------------
+Venue: ANZ Stadium
+Location: Sydney Olympic Park, 
+Date: 10/26/2019
+----------------------------------------------
+Venue: Queensland Sport And Athletics Centre (QSAC)
+Location: Brisbane, 
+Date: 10/29/2019
+----------------------------------------------
+Venue: Mt Smart Stadium
+Location: Auckland, 
+Date: 10/31/2019
+----------------------------------------------
+Venue: Optus Stadium
+Location: Burswood, 
+Date: 10/17/2019
+C:\Program Files\nodejs\node.exe C:\Users\TEDDY\Documents\GitHub\liri-node-app\liri.js concert-this ProdigyNo concerts found for Prodigy
+C:\Program Files\nodejs\node.exe C:\Users\TEDDY\Documents\GitHub\liri-node-app\liri.js concert-this The ProdigyNo concerts found for The Prodigy
+C:\Program Files\nodejs\node.exe C:\Users\TEDDY\Documents\GitHub\liri-node-app\liri.js concert-this AC/DCNo concerts found for AC/DC
+C:\Program Files\nodejs\node.exe C:\Users\TEDDY\Documents\GitHub\liri-node-app\liri.js concert-this Cake----------------------------------------------
+Venue: Salle Pleyel
+Location: Paris, 
+Date: 10/19/2019
+C:\Program Files\nodejs\node.exe C:\Users\TEDDY\Documents\GitHub\liri-node-app\liri.js concert-this Eifel 65----------------------------------------------
+Venue: Kauno Žalgirio arena
+Location: Kaunas, 
+Date: 03/30/2019
+----------------------------------------------
+Venue: Paradiso Disco
+Location: Brescia, 
+Date: 04/06/2019
+----------------------------------------------
+Venue: Pepsi Center
+Location: México D.f., 
+Date: 04/13/2019
+----------------------------------------------
+Venue: ZENITH DE STRASBOURG ZENITH EUROPE
+Location: Eckbolsheim, 
+Date: 05/04/2019
+----------------------------------------------
+Venue: Espelunden
+Location: Rodovre, 
+Date: 05/25/2019
+----------------------------------------------
+Venue: Dyrskuepladsen
+Location: Aabenraa, 
+Date: 06/01/2019
+----------------------------------------------
+Venue: Szeged
+Location: Szeged, 
+Date: 06/07/2019
+----------------------------------------------
+Venue: Zinkensdamms IP
+Location: Stockholm, 
+Date: 07/06/2019
+----------------------------------------------
+Venue: Slottskogsvallen
+Location: Goteborg, 
+Date: 07/13/2019
+----------------------------------------------
+Venue: Pixlapiren
+Location: Helsingborg, 
+Date: 07/20/2019
+----------------------------------------------
+Venue: Rådmandshaven
+Location: Næstved, 
+Date: 08/17/2019
+----------------------------------------------
+Venue: Kongens Have
+Location: Odense C, 
+Date: 08/24/2019
+----------------------------------------------
+Venue: Mølleparken
+Location: Aalborg, 
+Date: 08/31/2019
+C:\Program Files\nodejs\node.exe C:\Users\TEDDY\Documents\GitHub\liri-node-app\liri.js concert-this Eifel 65----------------------------------------------
+Venue: Kauno Žalgirio arena
+Location: Kaunas, 
+Date: 03/30/2019
+----------------------------------------------
+Venue: Pepsi Center
+Location: México D.f., 
+Date: 04/13/2019
+----------------------------------------------
+Venue: ZENITH DE STRASBOURG ZENITH EUROPE
+Location: Eckbolsheim, 
+Date: 05/04/2019
+----------------------------------------------
+Venue: Paradiso Disco
+Location: Brescia, 
+Date: 04/06/2019
+----------------------------------------------
+Venue: Espelunden
+Location: Rodovre, 
+Date: 05/25/2019
+----------------------------------------------
+Venue: Dyrskuepladsen
+Location: Aabenraa, 
+Date: 06/01/2019
+----------------------------------------------
+Venue: Szeged
+Location: Szeged, 
+Date: 06/07/2019
+----------------------------------------------
+Venue: Zinkensdamms IP
+Location: Stockholm, 
+Date: 07/06/2019
+----------------------------------------------
+Venue: Slottskogsvallen
+Location: Goteborg, 
+Date: 07/13/2019
+----------------------------------------------
+Venue: Pixlapiren
+Location: Helsingborg, 
+Date: 07/20/2019
+----------------------------------------------
+Venue: Rådmandshaven
+Location: Næstved, 
+Date: 08/17/2019
+----------------------------------------------
+Venue: Kongens Have
+Location: Odense C, 
+Date: 08/24/2019
+----------------------------------------------
+Venue: Mølleparken
+Location: Aalborg, 
+Date: 08/31/2019
