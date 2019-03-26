@@ -8,6 +8,7 @@ var fs = require("fs");
 var request = require("request");
 
 var Movie = function(movie) {
+  //if movie not found display movie "Mr Nobody" and yes I have seen this on Netflix!
   var URL = `http://www.omdbapi.com/?apikey=trilogy&t=${
     movie ? movie : "Mr. Nobody"
   }`;
